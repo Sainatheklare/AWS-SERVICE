@@ -1,0 +1,60 @@
+1. Continuous Integration (CI): Automates code integration.
+2. Continuous Deployment (CD): Automated code deployment.
+3. Version Control System (VCS): Manages code versions.
+4. Git: Distributed version control.
+5. Jenkins: Automation server for CI/CD.
+6. Build Automation: Automates code compilation.
+7. Artifact: Build output package.
+8. Maven: Build and project management.
+9. Gradle: Build automation tool.
+10. Containerization: Application packaging and isolation.
+11. Docker: Containerization platform.
+12. Kubernetes: Container orchestration.
+13. Orchestration: Automated coordination of components.
+14. Microservices: Architectural design approach.
+15. Infrastructure as Code (IaC): Manage infrastructure programmatically.
+16. Terraform: IaC provisioning tool.
+17. Ansible: IaC automation tool.
+18. Chef: IaC automation tool.
+19. Puppet: IaC automation tool.
+20. Configuration Management: Automates infrastructure configurations.
+21. Monitoring: Observing system behavior.
+22. Alerting: Notifies on issues.
+23. Logging: Recording system events.
+24. ELK Stack: Log management tools.
+25. Prometheus: Monitoring and alerting toolkit.
+26. Grafana: Visualization platform.
+27. Application Performance Monitoring (APM): Monitors app performance.
+28. Load Balancing: Distributes traffic evenly.
+29. Reverse Proxy: Forwards client requests.
+30. NGINX: Web server and reverse proxy.
+31. Apache: Web server and reverse proxy.
+32. Serverless Architecture: Code execution without servers.
+33. AWS Lambda: Serverless compute service.
+34. Azure Functions: Serverless compute service.
+35. Google Cloud Functions: Serverless compute service.
+36. Infrastructure Orchestration: Automates infrastructure deployment.
+37. AWS CloudFormation: IaC for AWS.
+38. Azure Resource Manager (ARM): IaC for Azure.
+39. Google Cloud Deployment Manager: IaC for GCP.
+40. Continuous Testing: Automated testing at all stages.
+41. Unit Testing: Tests individual components.
+42. Integration Testing: Tests component interactions.
+43. System Testing: Tests entire system.
+44. Performance Testing: Evaluates system speed.
+45. Security Testing: Identifies vulnerabilities.
+46. DevSecOps: Integrates security in DevOps.
+47. Code Review: Inspection for quality.
+48. Static Code Analysis: Examines code without execution.
+49. Dynamic Code Analysis: Analyzes running code.
+50. Dependency Management: Handles code dependencies.
+51. Artifact Repository: Stores and manages artifacts.
+52. Nexus: Repository manager.
+53. JFrog Artifactory: Repository manager.
+54. Continuous Monitoring: Real-time system observation.
+55. Incident Response: Manages system incidents.
+56. Site Reliability Engineering (SRE): Ensures system reliability.
+57. Collaboration Tools: Facilitates team communication.
+58. Slack: Team messaging platform.
+59. Microsoft Teams: Collaboration platform.
+60. ChatOps: Collaborative development through chat.
